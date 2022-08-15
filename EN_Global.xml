@@ -56,7 +56,7 @@ Example: <entry key="my_cool_string">Look ma, no hash!</entry>-->
 	<entry keyHash="9647231">AGLA Grifball</entry>
 	<entry keyHash="9828573">Nameplate - SNOW LEOPARD</entry>
 	<entry keyHash="9928619">THE PACKAGE</entry>
-	<entry keyHash="10225643">Chất lượng đồ họa sẽ giảm nhưng FPS sẽ được tăng cao.</entry>
+	<entry keyHash="10225643">The graphics quality is reduced for best performance.</entry>
 	<entry keyHash="10352845">Can't keep a good hero down.</entry>
 	<entry keyHash="10352845">Can't keep a good hero down.</entry>
 	<entry keyHash="10534248">Other Player on Radar</entry>
@@ -1648,7 +1648,7 @@ Ban will be lifted on %s.</entry>
 	<entry keyHash="335454533">Fight your way to the canyon floor.</entry>
 	<entry keyHash="335504091">For those seeking redemption.</entry>
 	<entry keyHash="335632693">Halo 3: Complete Tsavo Highway.</entry>
-	<entry keyHash="335793739">Game sẽ render theo tốc độ khung hình của bạn.</entry>
+	<entry keyHash="335793739">The game will render frames per the refresh rate of your display.</entry>
 	<entry keyHash="336080169">NEUTRAL ASSAULT</entry>
 	<entry keyHash="336420754">All contact has been lost with Fireteam Crimson. Last seen facing insurmountable odds, they were either killed or captured. The UNSC Infinity will continue attempting to establish their status.</entry>
 	<entry keyHash="336553336">Space</entry>
@@ -2646,7 +2646,7 @@ Wait for an evac dropship to arrive</entry>
 	<entry keyHash="537610254">Both teams fight to take the neutral bomb and detonate it in the enemy base.</entry>
 	<entry keyHash="538160243">Right Shoulder - SCION</entry>
 	<entry keyHash="538209889">Num 3</entry>
-	<entry keyHash="538629891">Lựa chọn màn hình mà game sẽ xuất hiện.</entry>
+	<entry keyHash="538629891">Set which monitor the game is displayed on.</entry>
 	<entry keyHash="538688746">HUD Competitive Score</entry>
 	<entry keyHash="538747579">Shielded Banshee</entry>
 	<entry keyHash="538858576">Customized VISR 4.0 optimized for Operator-class armor.</entry>
@@ -3253,7 +3253,7 @@ Are you sure you want to download this untrusted shared file?</entry>
 	<entry keyHash="673962087">Speech to text</entry>
 	<entry keyHash="674685740">TẮT</entry>
 	<entry keyHash="674909498">LOCKED SKULL</entry>
-	<entry keyHash="675571366">Tốc độ khung hình sẽ được giới hạn ở 60 FPS.</entry>
+	<entry keyHash="675571366">The frame rate will be limited to 60 FPS for a console-like Halo experience.</entry>
 	<entry keyHash="675881822">Tipping the scales.</entry>
 	<entry keyHash="676200584">Ah, so you are angry at me.</entry>
 	<entry keyHash="676448001">JACOB KEYES</entry>
@@ -4672,7 +4672,7 @@ PREPARE TO DROP</entry>
 	<entry keyHash="969932435">RAMPANCY</entry>
 	<entry keyHash="969965056">ON PATROL</entry>
 	<entry keyHash="970174267">Kill the opposing flag carrier.</entry>
-	<entry keyHash="970230833">HUD sẽ được đặt ở giữa nếu bạn sử dụng ultrawide.</entry>
+	<entry keyHash="970230833">HUD elements will be centered near the middle when in ultrawide.</entry>
 	<entry keyHash="970835357">2</entry>
 	<entry keyHash="970906826">This determines how many points a player earns (or loses) for committing suicide.</entry>
 	<entry keyHash="971389709">Multi-Team Ricochet</entry>
@@ -4829,7 +4829,7 @@ PREPARE TO DROP</entry>
 	<entry keyHash="1003967213">TOGGLE FREECAM</entry>
 	<entry keyHash="1004363099">Warthog Skin - ARCTIC</entry>
 	<entry keyHash="1004574273">Halo 2: Complete every level of the game on Heroic difficulty.</entry>
-	<entry keyHash="1004660472">Tùy chọn này sẽ bật khử răng cưa.</entry>
+	<entry keyHash="1004660472">This option enables anti-aliasing.</entry>
 	<entry keyHash="1004751140">BROADSWORD MISSILE</entry>
 	<entry keyHash="1005045645">MAGNUM CBN</entry>
 	<entry keyHash="1005282690">RIFLE SALUTE</entry>
@@ -5365,7 +5365,7 @@ Main Menu / Options &amp; Career / Settings / Gameplay / Change Installed Games.
 	<entry keyHash="1117816595">SHARK</entry>
 	<entry keyHash="1118717128">BLACKGUARD BANE MARKED</entry>
 	<entry keyHash="1118728491">HEMORRHAGE</entry>
-	<entry keyHash="1119006687">Chỉnh độ sáng menu.</entry>
+	<entry keyHash="1119006687">Set menu brightness.</entry>
 	<entry keyHash="1119101838">Moving Hill</entry>
 	<entry keyHash="1119423378">Thay đổi cài đặt tay cầm, âm thanh và đồ hoạ.</entry>
 	<entry keyHash="1119807573">RESTART GAME</entry>
@@ -5511,7 +5511,7 @@ Ban will be lifted on %s.</entry>
 	<entry keyHash="1147487396">Spectre.</entry>
 	<entry keyHash="1147568156">A blank canvas recommended for Forge editing only.</entry>
 	<entry keyHash="1147733214">CAPTURE THE FLAG</entry>
-	<entry keyHash="1147757858">Chỉnh độ sáng của game.</entry>
+	<entry keyHash="1147757858">Set game brightness. Changing UI slider will preview values.</entry>
 	<entry keyHash="1148187738">CLOSE CALL</entry>
 	<entry keyHash="1148339137">Practice your manual of arms.</entry>
 	<entry keyHash="1148496497">Arrow On Target</entry>
@@ -5852,7 +5852,7 @@ DISABLED: impulse trigger vibrations are disabled.</entry>
 	<entry keyHash="1222023986">Search for the map room that will lead you to the secrets of Halo.</entry>
 	<entry keyHash="1222483121">AVATAR_OSMAN_4</entry>
 	<entry keyHash="1222590831">TURBULENCE</entry>
-	<entry keyHash="1222730375">Game sẽ không được giới hạn FPS. (Nhưng sẽ bị giới hạn nếu V - Sync được bật).</entry>
+	<entry keyHash="1222730375">The game will run with as many frames as your computer will render (This is limited by V-sync if enabled).</entry>
 	<entry keyHash="1222995668">The weapon set featured in the Slayer Pro mode.</entry>
 	<entry keyHash="1223125135">Tight Corridors</entry>
 	<entry keyHash="1223209287">Kill 1000 Elites.</entry>
@@ -6499,7 +6499,7 @@ Take out targets in style.</entry>
 	<entry keyHash="1361108566">DEFIANT</entry>
 	<entry keyHash="1361701589">700 Points</entry>
 	<entry keyHash="1362131194">TẮT</entry>
-	<entry keyHash="1362241332">Chất lượng đồ họa sẽ được tăng lên cao nhất.</entry>
+	<entry keyHash="1362241332">The graphics quality is increased for maximum quality.</entry>
 	<entry keyHash="1362497524">All weapons are sniper rifles and there is no motion sensor. Get kills to score for your team!</entry>
 	<entry keyHash="1362640510">This setting allows you to override the map-specific default with one of your choosing.</entry>
 	<entry keyHash="1362901753">The third of the five loadouts options available.</entry>
@@ -8212,7 +8212,7 @@ Wake up, buttercup.</entry>
 	<entry keyHash="1720020979">Halo 2 Campaign</entry>
 	<entry keyHash="1720603345">CYCLONE</entry>
 	<entry keyHash="1720904543">AIR ASSAULT Helmet -Base</entry>
-	<entry keyHash="1721155278">Chỉnh góc rộng của camera ở góc nhìn thứ ba khi bạn ở trên phương tiện.</entry>
+	<entry keyHash="1721155278">Set how wide the third-person camera field-of-view appears when in a vehicle in non-split screen play.</entry>
 	<entry keyHash="1721991437">Set key to Crouch.</entry>
 	<entry keyHash="1722151469">BẮT ĐẦU</entry>
 	<entry keyHash="1722531739">THE REFUGE</entry>
@@ -8690,7 +8690,7 @@ Wake up, buttercup.</entry>
 	<entry keyHash="1816346164">SNIPER ALLEY</entry>
 	<entry keyHash="1816876798">I will deal with him personally. </entry>
 	<entry keyHash="1816937413">Anti-Air Wraith</entry>
-	<entry keyHash="1816938014">HUD sẽ được đặt ở góc nếu bạn sử dụng ultrawide.</entry>
+	<entry keyHash="1816938014">HUD elements will be attached to the edges of the display when in ultrawide.</entry>
 	<entry keyHash="1816944214">ANVIL Station now has access to Mjolnir prototypes fresh from IMC field testing on Luna.</entry>
 	<entry keyHash="1817007064">HALO 2 ANNIVERSARY</entry>
 	<entry keyHash="1817163024">Kill from the Hill</entry>
@@ -10759,7 +10759,7 @@ To prioritize your downloads, press [Q] to raise priority on a game or [E] to lo
 	<entry keyHash="2232640035">MAKING AN ENTRANCE</entry>
 	<entry keyHash="2233037597">COMMANDO Helmet - Base</entry>
 	<entry keyHash="2233123585">PROFANITY WARNING</entry>
-	<entry keyHash="2233197143">Tốc độ khung hình sẽ được giới hạn ở  180 FPS.</entry>
+	<entry keyHash="2233197143">The frame rate will be limited to 180 FPS.</entry>
 	<entry keyHash="2233465936">10000 Points</entry>
 	<entry keyHash="2233666857">The Brutes who keep other Brutes in line.</entry>
 	<entry keyHash="2233748651">45 Times</entry>
@@ -12256,11 +12256,11 @@ NOBLE ACTUAL</entry>
 	<entry keyHash="2540228740">CHẤT LƯỢNG ÁNH SÁNG</entry>
 	<entry keyHash="2540460235">Thorne?! Get back here! That's an order! </entry>
 	<entry keyHash="2540553201">DEFENDER CTRL</entry>
-	<entry keyHash="2540615876">Tốc độ khung hình sẽ được giới hạn ở 240 FPS.</entry>
+	<entry keyHash="2540615876">The frame rate will be limited to 240 FPS.</entry>
 	<entry keyHash="2540773918">COLD STORAGE</entry>
 	<entry keyHash="2540913005">Legendary CTF</entry>
 	<entry keyHash="2541352189">3</entry>
-	<entry keyHash="2541406922">Tốc độ khung hình sẽ được giới hạn ở 120 FPS.</entry>
+	<entry keyHash="2541406922">The frame rate will be limited to 120 FPS.</entry>
 	<entry keyHash="2541716134">How many grenades the player starts with.</entry>
 	<entry keyHash="2542059819">Lieutenant Austen. The word is given.</entry>
 	<entry keyHash="2542161978">This option enables score multipliers for difficulty and skulls.</entry>
@@ -13264,7 +13264,7 @@ NOBLE ACTUAL</entry>
 	<entry keyHash="2760599648">Default skin.</entry>
 	<entry keyHash="2760716846">ENG::emblem_Infected_desc</entry>
 	<entry keyHash="2761025037">HALO 3: ODST</entry>
-	<entry keyHash="2761319522">Chỉnh góc rộng của camera ở góc nhìn thứ nhất.</entry>
+	<entry keyHash="2761319522">Set how wide the first-person camera field-of-view appears in non-split screen play.</entry>
 	<entry keyHash="2761511567">MEGAFRAME</entry>
 	<entry keyHash="2761547395">TEAM ODDBALL</entry>
 	<entry keyHash="2761652143">Memories</entry>
@@ -13341,7 +13341,7 @@ NOBLE ACTUAL</entry>
 	<entry keyHash="2774798992">HUNTER'S BLOOD</entry>
 	<entry keyHash="2774848863">SPEED BOOST</entry>
 	<entry keyHash="2774917683">RED SHIFT</entry>
-	<entry keyHash="2774951821">Chất lượng đồ họa phù hợp với trải nghiệm ban đầu.</entry>
+	<entry keyHash="2774951821">The graphics quality matches the original experience.</entry>
 	<entry keyHash="2774975964">-8</entry>
 	<entry keyHash="2775060402">Perfect for hiding from alien hunters.</entry>
 	<entry keyHash="2775173031">
@@ -14028,7 +14028,7 @@ DISABLED: controller vibration is disabled.</entry>
 	<entry keyHash="2923654878">Includes a wide-range fireteam allocation module.</entry>
 	<entry keyHash="2923781349">ARBITER 3</entry>
 	<entry keyHash="2923918988">EXPLOSIVES</entry>
-	<entry keyHash="2923947056">Game sẽ chạy với FPS cao nhất mà cấu hình cho phép.</entry>
+	<entry keyHash="2923947056">The game will run at as many frames per second as the hardware allows. This could cause screen tearing if limit framerate is off.</entry>
 	<entry keyHash="2924221557">CONDEMNED</entry>
 	<entry keyHash="2924450659">Though its original purpose has been lost to the march of eons, this structure is now a cemetery to countless brave warriors.</entry>
 	<entry keyHash="2924819840">TEAM CRAZY KING</entry>
@@ -16095,7 +16095,7 @@ ENABLED: moving the look stick forward makes flying vehicles dive.</entry>
 	<entry keyHash="3373953848">Didact, you make a fair—if uncomfortable—point. You have my support.</entry>
 	<entry keyHash="3374123886">North Central US</entry>
 	<entry keyHash="3374154151">A new Juggernaut is chosen immediately after the previous one dies.</entry>
-	<entry keyHash="3374162875">Chất lượng chi tiết sẽ giảm xuống thấp nhất.</entry>
+	<entry keyHash="3374162875">The level of detail is reduced for best performance.</entry>
 	<entry keyHash="3374308696">HALO 3 DLC Required</entry>
 	<entry keyHash="3374477734">Customized with the PIXEL skin.</entry>
 	<entry keyHash="3374581353">Visor Color - PEARLESCENT GREEN</entry>
@@ -16700,7 +16700,7 @@ Invest in close-range success.</entry>
 	<entry keyHash="3501245524">SAVE ONE BULLET</entry>
 	<entry keyHash="3501324227">Elites experimenting with human weapons.</entry>
 	<entry keyHash="3501354352">FALCO TROOPER</entry>
-	<entry keyHash="3501495004">GIỚI HẠN KHUNG HÌNH</entry>
+	<entry keyHash="3501495004">FRAMERATE LIMIT</entry>
 	<entry keyHash="3501578136">The Forerunners' ancient enemy held and used that knowledge once. But it was denied to us.</entry>
 	<entry keyHash="3502563222">2x Pulse</entry>
 	<entry keyHash="3503203076">OVER-LOCKING</entry>
@@ -18810,7 +18810,7 @@ Nếu bạn bỏ tích vào một game nào đó, nó sẽ được gỡ sau khi
 	<entry keyHash="3958737049">1 Hour</entry>
 	<entry keyHash="3959134823">MISSION %d:</entry>
 	<entry keyHash="3959581349">TRIPLICATE</entry>
-	<entry keyHash="3959643245">Tùy chọn này sẽ tắt khử răng cưa.</entry>
+	<entry keyHash="3959643245">This option disables anti-aliasing.</entry>
 	<entry keyHash="3959665755">The Bubble Shield is a defensive barrier that can deflect Spartan Laser beams and Grenades.</entry>
 	<entry keyHash="3959675910">Covenant Weapons</entry>
 	<entry keyHash="3959766134">We're not dead yet, Grant! </entry>
@@ -20150,7 +20150,7 @@ Please make sure all actions are assigned to a key or discard the changes you ha
 	<entry keyHash="4254047295">Control the hill to earn points. The hill moves in a random order. Bloom is reduced and bleedthrough is enabled.</entry>
 	<entry keyHash="4254164687">Stalker</entry>
 	<entry keyHash="4254312555">DOWNLOAD</entry>
-	<entry keyHash="4254545999">Bạn sẽ được tự điều chỉnh cài đặt đồ họa.</entry>
+	<entry keyHash="4254545999">The graphics quality is customized.</entry>
 	<entry keyHash="4254603584">PILOT Helmet - HAUNTED</entry>
 	<entry keyHash="4254914498">Unknown, Spartan.</entry>
 	<entry keyHash="4255311234">Halo 3 is not installed. Would you like to visit the Steam Store?</entry>
@@ -20226,7 +20226,7 @@ Please make sure all actions are assigned to a key or discard the changes you ha
 	<entry keyHash="4271227473">250</entry>
 	<entry keyHash="4271251022">One More Game II</entry>
 	<entry keyHash="4271839178">JUGGERNAUT</entry>
-	<entry keyHash="4272045494">Game sẽ chạy hoàn toàn trong một cửa sổ.</entry>
+	<entry keyHash="4272045494">The game will run fully maximised in a window.</entry>
 	<entry keyHash="4272118001">MULTI FLAG CTF</entry>
 	<entry keyHash="4272122134">Brigadier General</entry>
 	<entry keyHash="4272641480">LOCKED SKULL</entry>
